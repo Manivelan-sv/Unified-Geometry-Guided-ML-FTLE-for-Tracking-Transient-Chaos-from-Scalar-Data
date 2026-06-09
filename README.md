@@ -1,8 +1,8 @@
 # ML-FTLE & Poincaré-Map FTLE Proxies
 
 > **Companion code for the paper:**
-> *"Unified Geometry-Guided ML-FTLE for Tracking Transient Chaos from Scalar Data"*
-> *(preprint / under review   link to be added on acceptance)*
+> *"Unified Geometry-Guided ML-FTLE for Tracking Transient Chaos from Scalar Time Series"*
+> **Preprint available on arXiv:** [arXiv:2606.07385](https://doi.org/10.48550/arXiv.2606.07385)
 
 ---
 
@@ -149,12 +149,14 @@ All evaluation metrics in this work compare a proxy FTLE series against QR-FTLE 
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{,
-  title   = {Unified-Geometry-Guided-ML-FTLE-for-Tracking-Transient-Chaos-from-Scalar-Data},
-  author  = {S. V. Manivelan, Andrei Velichko, and I. Manimehan},
-  journal = {},
-  year    = {2026},
-  doi     = {}
+@misc{manivelan2026unifiedgeometryguidedmlftletracking,
+      title={Unified Geometry-Guided ML-FTLE for Tracking Transient Chaos from Scalar Time Series}, 
+      author={S. V. Manivelan and Andrei Velichko and I. Manimehan},
+      year={2026},
+      eprint={2606.07385},
+      archivePrefix={arXiv},
+      primaryClass={nlin.CD},
+      url={https://arxiv.org/abs/2606.07385}, 
 }
 ```
 
